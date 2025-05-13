@@ -68,7 +68,7 @@ This project demonstrates face mask classification using a pre-trained MobileNet
    jupyter notebook face_mask_dtector.ipynb
 Or upload it to Google Colab and run it there.
 
-
+---
 ## ▶️ Example Usage
 Run all cells step by step.
 
